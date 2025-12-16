@@ -2,7 +2,7 @@
 
 ### Git
 * **Version Control**: keeps track of the history and the things you changed on what you're working on.
-* version: Help have the opportunity to have 2 people work on the same document at the same time.
+* **Version**: Help have the opportunity to have 2 people work on the same document at the same time.
 
 ### Github
 * **Web Service for Git**: Lets you host Git repositories online.
